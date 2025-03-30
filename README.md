@@ -53,7 +53,7 @@ The voice assistant follows an object-oriented architecture with these key compo
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/voice-assistant.git
+git clone https://github.com/husskhosravi/voice-assistant-python.git
 cd voice-assistant
 ```
 
@@ -72,7 +72,7 @@ pip install SpeechRecognition pyttsx3 wikipedia pyaudio
 
 Run the assistant using Python:
 ```
-python voice_assistant.py
+python voice-assistant-code.py
 ```
 
 The assistant will start listening for the wake word (default: "hey assistant"). After the wake word is detected, you can issue commands. The assistant will automatically time out after a period of inactivity.
