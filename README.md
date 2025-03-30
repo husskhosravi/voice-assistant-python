@@ -10,7 +10,7 @@ A modular voice assistant application that responds to spoken commands after bei
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
-- [System Architecture](#-system-architecture)
+- [System Architecture](#%EF%B8%8F-system-architecture)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Command Examples](#-command-examples)
