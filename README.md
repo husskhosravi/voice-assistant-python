@@ -106,7 +106,6 @@ After saying the wake word, try these commands:
 ## 🔮 Future Improvements
 
 - Add more advanced natural language processing
-- Implement smart home device control
 - Add weather information retrieval
 - Create a GUI for easier configuration
 - Add multi-language support
